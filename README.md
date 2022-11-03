@@ -12,7 +12,5 @@
 <br />
 Course on vibration-based SHM, spanning from basic concepts of SHM and general pathologies in civil engineering structures, frequency-domain and time-domain OMA techniques, until damage detection algorithms following the pattern recognition paradigm.<br />
 <br />
-<br />
-All the theoretical concepts are illustrated with codes written <br />
-mostly in Python language.
+All the theoretical concepts are illustrated with codes written mostly in Python language.
 
