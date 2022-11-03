@@ -1,7 +1,7 @@
-# ModalAnalysis
+# Modal Analysis - MSc Lectures
 
 <div align="center">
-    <img src="Portada.png" width="400px"</img> 
+    <img src="Portada.png" width="600px"</img> 
 </div>
 
 
